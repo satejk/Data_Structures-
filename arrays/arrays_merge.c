@@ -8,12 +8,16 @@
 
 int *arr;
 
+//create and array
 int * create(int);
 
+//sort an array
 void sort(int*,int);
 
+//merge an array
 void merge(int *,int*);
 
+//display the array
 void display(int*,int);
 
 
