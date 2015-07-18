@@ -8,6 +8,8 @@
 
 int main(){
 
+	int mat1[3][3];
+
 
 
 
